@@ -18,7 +18,6 @@ Daari explains, reasons, and adapts routes using AI agents.
 - Backend: Python, FastAPI
 - AI: LLMs, agent-based orchestration
 - Frontend: React Native (TypeScript)
-- Infra: Docker, GitHub Actions
 - Deployment: Free-tier cloud services
 
 ## Status
