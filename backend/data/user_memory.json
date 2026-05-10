@@ -1,0 +1,15 @@
+{
+  "route_history": [
+    {
+      "timestamp": "2026-05-10T15:00:01.921764",
+      "start": "MG Road Bangalore",
+      "end": "Cubbon Park",
+      "num_nodes": 28
+    }
+  ],
+  "preferences": {},
+  "favorite_places": [
+    "MG Road Bangalore",
+    "Cubbon Park"
+  ]
+}
